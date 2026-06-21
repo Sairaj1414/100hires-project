@@ -22,7 +22,7 @@ AI tools setup portfolio project for 100Hires
 Setting up extensions inside Cursor.
 
 ### Solution
-Used Youtube tutorials and AI assistance to understand the process.
+Used YouTube tutorials and AI assistance to understand the process and completed the setup successfully.
 
 ## What I Learned
 
