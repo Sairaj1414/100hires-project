@@ -1,7 +1,7 @@
 # 100hires-project
 AI tools setup portfolio project for 100Hires
 
-your-folder/
-├── List of 10 experts (with links)
-├── Their video transcripts (organized by person)
-└── A README file explaining what you did
+I found these 10 experts by: 
+1. searching YouTube for 'B2B SaaS YouTube strategy.
+2. checking subscriber counts and video content.
+3. verifying they teach actual strategies, not just theory.
