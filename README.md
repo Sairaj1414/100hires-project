@@ -55,7 +55,6 @@ The repository includes:
 * SaaS blogs
 * Podcasts
 * Newsletters
-* Books
 * Additional reference materials
 
 Each resource has been summarized into structured Markdown notes to enable easy reference and future research.
