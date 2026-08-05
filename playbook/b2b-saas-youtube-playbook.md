@@ -1,109 +1,35 @@
-# B2B SaaS YouTube Growth Playbook
-
-## Overview
-
-### Purpose
-
-### Target Audience
-
-### Success Metrics
-
----
-
-# Standard Operating Procedure (SOP)
-
-## Phase 1 – Research
-
 ### Step 1 – Define ICP
 
-### Step 2 – Customer Research
+#### Objective
 
-### Step 3 – Positioning
+Define one specific Ideal Customer Profile (ICP) before producing any content.
 
----
+#### Why This Matters
 
-## Phase 2 – Content Strategy
+Without a clearly defined ICP, content becomes too broad, making it harder to attract qualified viewers and convert them into customers.
 
-### Step 4 – Build Content Pillars
+#### Actions
 
-### Step 5 – Topic Selection
+1. Interview 20–50 potential customers.
+2. Identify recurring problems.
+3. Record the exact language customers use.
+4. Document demographics, goals, challenges, and buying triggers.
+5. Create a one-page ICP document.
 
-### Step 6 – Script Writing
+#### Deliverable
 
----
+- ICP Document
+- Problem List
+- Customer Language Library
 
-## Phase 3 – Production
+#### Success Criteria
 
-### Step 7 – Recording
+- One clearly defined ICP.
+- Top 10 customer pain points documented.
+- Common terminology identified.
 
-### Step 8 – Editing
+#### Sources
 
-### Step 9 – Thumbnail & Title
-
----
-
-## Phase 4 – Distribution
-
-### Step 10 – Publish
-
-### Step 11 – Repurpose Content
-
-### Step 12 – LinkedIn Strategy
-
-### Step 13 – Newsletter
-
----
-
-## Phase 5 – Optimization
-
-### Step 14 – Analytics
-
-### Step 15 – Feedback Loop
-
-### Step 16 – Continuous Improvement
-
----
-
-# AI Workflow
-
----
-
-# Recommended Tool Stack
-
----
-
-# KPIs
-
----
-
-# Where Experts Disagree
-
-## Example 1
-
-## Example 2
-
-## Example 3
-
----
-
-# What I Rejected and Why
-
-## Idea 1
-
-## Idea 2
-
----
-
-# My Original Ideas
-
----
-
-# Weaknesses of this Playbook
-
----
-
-# Who I Would NOT Recommend Following
-
----
-
-# References
+- Adam Robinson – *If I Started a SaaS in 2026*
+- TK Kader – *Go-To-Market Strategy for First 1,000 Customers*
+- Dan Martell – *7 Steps to Building a SaaS*
