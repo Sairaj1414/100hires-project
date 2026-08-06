@@ -1873,20 +1873,22 @@ These creators remain valuable resources, but I would prioritize Adam Robinson, 
 
 ---
 
-# References
+## References
 
-This playbook was developed by synthesizing insights from:
+This playbook synthesizes research collected during this project, including:
 
-- Adam Robinson
-- Dan Martell
-- Rob Walling
-- TK Kader
-- Greg Isenberg
-- Harry Stebbings
-- Ali Abdaal
-- Varun Mayya
-- Simon Høiberg
-- Liam Ottley
+- Adam Robinson — YouTube videos, LinkedIn posts, and interviews
+- Dan Martell — YouTube videos, SaaS growth content, and founder frameworks
+- Rob Walling — Podcast discussions, blog posts, and startup content
+- TK Kader — Go-to-market strategy videos and SaaS education
+- Greg Isenberg — Founder-led marketing and audience-building content
+- Harry Stebbings — Founder interviews and SaaS discussions
+- Ali Abdaal — Educational content systems and creator workflows
+- Varun Mayya — AI and technology content strategy
+- Simon Høiberg — Productivity and creator workflow content
+- Liam Ottley — AI automation and business content
+
+See the `/research` and `/sources` directories for detailed notes, transcripts, and supporting material.
 
 Additional supporting material includes:
 
