@@ -161,7 +161,9 @@ Across multiple researched experts, customer understanding consistently appeared
 - Ignoring customer interviews.
 - Using internal company language instead of customer language.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Adam Robinson
 - Rob Walling
@@ -219,7 +221,9 @@ Educational content based on these insights attracts more qualified prospects an
 - Ignoring qualitative insights.
 - Creating content before validating demand.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Adam Robinson
 - Dan Martell
@@ -274,7 +278,9 @@ Without clear positioning, even high-quality content struggles to build a memora
 - Trying to appeal to multiple audiences.
 - Focusing on the product instead of customer problems.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - TK Kader
 - Adam Robinson
@@ -344,7 +350,9 @@ During my research, successful founder-led SaaS channels consistently focused on
 - Publishing random trending topics.
 - Building pillars around product features instead of customer problems.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Adam Robinson
 - Greg Isenberg
@@ -418,7 +426,9 @@ Topics failing most of these criteria should be rejected.
 - Publishing without research.
 - Chasing every AI trend.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Adam Robinson
 - Rob Walling
@@ -505,7 +515,9 @@ Before recording:
 - Aggressive product promotion.
 - Missing or unclear CTA.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Ali Abdaal
 - Adam Robinson
@@ -579,7 +591,9 @@ Before recording:
 - Memorizing the entire script.
 - Ignoring small recording mistakes that require complete re-recording.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Ali Abdaal
 - Simon Høiberg
@@ -643,7 +657,9 @@ Before exporting:
 - Inconsistent branding.
 - Leaving unnecessary pauses.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Ali Abdaal
 - Simon Høiberg
@@ -731,7 +747,9 @@ Before publishing:
 - Too much text.
 - Misalignment between title and video.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Adam Robinson
 - Ali Abdaal
@@ -815,7 +833,9 @@ Before clicking **Publish**:
 - Missing chapters.
 - Publishing inconsistently.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Adam Robinson
 - Ali Abdaal
@@ -879,7 +899,9 @@ One YouTube Video should become:
 - Ignoring platform-specific formatting.
 - Creating new content instead of repurposing.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Adam Robinson
 - Greg Isenberg
@@ -941,7 +963,9 @@ LinkedIn is often where B2B buyers actively engage with professional content. Re
 - Ignoring comments.
 - Publishing inconsistently.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Greg Isenberg
 - Adam Robinson
@@ -998,7 +1022,9 @@ Unlike social media platforms, an email list is owned by the company. It provide
 - Publishing irregularly.
 - Providing little educational value.
 
-### This recommendation is supported by recurring themes identified in the work of:
+### Supporting Research
+
+This recommendation is supported by recurring themes identified in the work of:
 
 - Adam Robinson
 - Dan Martell
