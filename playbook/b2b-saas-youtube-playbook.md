@@ -78,6 +78,20 @@ These principles appeared consistently across multiple experts and form the foun
 
 ---
 
+## Assumptions
+
+This playbook assumes the following:
+
+- The company already has a working B2B SaaS product.
+- The founder or subject-matter expert is willing to appear on camera.
+- Customer interviews are possible.
+- The company is focused on long-term growth rather than short-term viral success.
+- The team has basic resources for recording and editing content.
+
+Companies that do not meet these assumptions may need to adapt portions of this SOP.
+
+---
+
 # Standard Operating Procedure (SOP)
 
 This Standard Operating Procedure (SOP) defines a repeatable workflow for building a B2B SaaS YouTube growth engine. Rather than treating YouTube as a standalone marketing channel, this SOP integrates customer research, positioning, content creation, distribution, and continuous optimization into a single operational system.
