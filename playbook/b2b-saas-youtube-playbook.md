@@ -172,6 +172,20 @@ This recommendation is supported by recurring themes identified in the work of:
 
 ---
 
+### ICP Template
+
+| Attribute | Description |
+|------------|-------------|
+| Industry | |
+| Company Size | |
+| Decision Maker | |
+| Primary Goal | |
+| Biggest Pain Point | |
+| Current Solution | |
+| Buying Trigger | |
+
+---
+
 ## Step 2 – Customer Research
 
 ### Recommendation
@@ -1370,6 +1384,30 @@ Convert one YouTube video into:
 - Decide future strategy
 - Prioritize business goals
 - Approve content roadmap
+
+---
+
+## Overall Workflow
+
+```mermaid
+flowchart TD
+
+A[Define ICP]
+-->B[Customer Research]
+-->C[Positioning]
+-->D[Content Pillars]
+-->E[Topic Selection]
+-->F[Script Writing]
+-->G[Recording]
+-->H[Editing]
+-->I[Publish]
+-->J[Repurpose]
+-->K[LinkedIn]
+-->L[Newsletter]
+-->M[Analytics]
+-->N[Feedback Loop]
+-->A
+```
 
 ---
 
