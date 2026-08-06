@@ -1,3 +1,5 @@
-#Playbook
+## Playbook
 
-This folder contains the final B2B SaaS YouTube Strategy Playbook.
+The completed SOP can be found here:
+
+playbook/b2b-saas-youtube-playbook.md
