@@ -62,9 +62,19 @@ The success of a B2B SaaS YouTube strategy should be measured using business out
 - LinkedIn engagement generated from videos
 - Newsletter open and click rates
 
-### Guiding Principle
+### Guiding Principles
 
-A video that generates a small number of highly qualified leads is more valuable than a viral video that produces no measurable business impact. Throughout this playbook, business outcomes take priority over views, subscribers, or impressions.
+The following principles influenced every recommendation in this playbook:
+
+1. Customer understanding comes before content production.
+2. Educational value is more important than entertainment.
+3. Business outcomes are more important than vanity metrics.
+4. Consistency beats production perfection.
+5. Every video should solve one meaningful customer problem.
+6. Content should build long-term authority rather than short-term attention.
+7. Every published asset should support a measurable business objective.
+
+These principles appeared consistently across multiple experts and form the foundation of this playbook.
 
 ---
 
