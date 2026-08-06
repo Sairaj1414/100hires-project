@@ -1973,31 +1973,38 @@ These creators remain valuable resources, but I would prioritize Adam Robinson, 
 
 ## References
 
-This playbook synthesizes research collected during this project, including:
+This playbook was developed by synthesizing research collected throughout this project. Every recommendation is grounded in the supporting research notes and source material contained within this repository.
 
-- Adam Robinson — YouTube videos, LinkedIn posts, and interviews
-- Dan Martell — YouTube videos, SaaS growth content, and founder frameworks
-- Rob Walling — Podcast discussions, blog posts, and startup content
-- TK Kader — Go-to-market strategy videos and SaaS education
-- Greg Isenberg — Founder-led marketing and audience-building content
-- Harry Stebbings — Founder interviews and SaaS discussions
-- Ali Abdaal — Educational content systems and creator workflows
-- Varun Mayya — AI and technology content strategy
-- Simon Høiberg — Productivity and creator workflow content
-- Liam Ottley — AI automation and business content
+## Research Files
 
-See the `/research` and `/sources` directories for detailed notes, transcripts, and supporting material.
+- **Adam Robinson** — `research/adam-robinson.md`
+- **Dan Martell** — `research/dan-martell.md`
+- **Rob Walling** — `research/rob-walling.md`
+- **TK Kader** — `research/tk-kader.md`
+- **Greg Isenberg** — `research/greg-isenberg.md`
+- **Harry Stebbings** — `research/harry-stebbings.md`
+- **Ali Abdaal** — `research/ali-abdaal.md`
+- **Varun Mayya** — `research/varun-mayya.md`
+- **Simon Høiberg** — `research/simon-hoiberg.md`
+- **Liam Ottley** — `research/liam-ottley.md`
 
-Additional supporting material includes:
+## Supporting Material
 
-- YouTube videos
-- LinkedIn posts
+The research repository includes:
+
+- YouTube transcript summaries
+- LinkedIn research notes
 - Blogs
 - Podcasts
 - Newsletters
 - Books
-- Company resources
-- Personal synthesis and analysis based on the collected research
+- Additional source material stored in the `/sources` directory
+
+## Methodology
+
+Rather than summarizing individual experts, this playbook synthesizes recurring themes, identifies disagreements, evaluates trade-offs, and develops practical operating procedures suitable for founder-led B2B SaaS companies.
+
+Where experts disagreed, recommendations were selected based on their applicability to early-stage SaaS businesses, implementation complexity, and expected business impact.
 
 ---
 
