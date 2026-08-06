@@ -540,6 +540,26 @@ This recommendation is supported by recurring themes identified in the work of:
 
 ---
 
+## Video Brief Template
+
+**Working Title**
+
+**Target ICP**
+
+**Customer Problem**
+
+**Desired Outcome**
+
+**Content Pillar**
+
+**Primary CTA**
+
+**Supporting Assets**
+
+**Publishing Date**
+
+---
+
 # Phase 3 – Production
 
 The production phase transforms strategic planning into high-quality educational content. The objective is not to achieve cinematic production quality, but to establish a repeatable system that consistently delivers valuable content while minimizing production bottlenecks.
